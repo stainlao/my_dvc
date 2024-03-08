@@ -1,0 +1,5 @@
+outs:
+- md5: 6e809cbda0732ac4845916a59016f954
+  size: 6
+  hash: md5
+  path: text2.txt
